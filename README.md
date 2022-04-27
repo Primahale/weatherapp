@@ -48,7 +48,7 @@
 
 
 This  project was completed in 2-3 days.
-I tried to bulid small weather App with mapping and other 7 days information about temperature shown in this app.With all the Concepts we learned in Masai School till Unit-3.Checkout my App by clicking on the link below and find the Source Code in the Main Branch.
+I tried to bulid small weather App with google map and other 7 days information about temperature shown in this app.With all the Concepts we learned in Masai School till Unit-3.Checkout my App by clicking on the link below and find the Source Code in the Main Branch.
 <br/>
 <br/>
 <a href="my-mini-youtube.netlify.app">
@@ -79,7 +79,7 @@ I tried to bulid small weather App with mapping and other 7 days information abo
 
 ## Usage and Features
 
-  This app is used for see information about weather of today and next 7-days weather and you can see that city map.
+  It is a weather forecast app with google map. When user want to know the temperature of a particular place it will also show the location of that particular place
  
 <br/>
 <br/>
